@@ -1,0 +1,17 @@
+---
+title: This is the #Base page of the *mk1-11ty-website*
+---
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>{{ title }}</title>
+</head>
+<body>
+  <main>
+    {{ content | safe }}
+    <hr/>
+    <small>A website by {{ site.author }} - &copy; {{ site.copyrightYear }}</small>
+  </main>
+</body>
+</html>
