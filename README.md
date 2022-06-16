@@ -1,8 +1,8 @@
-# Mike's 2Cents Blog - Built w/ 11ty-Eleventy
+# Mike's 2Cents Blog - Built w/ 11ty-Eleventy & Nunjucks
 
 Multipage personal blog, built using Js's 11ty framework and Nunjucks!
 
-(*this is an on-going project, soon to be turned into a full stack blog website)
+(*this is an on-going project, soon to be turned into a full stack blog website*)
 
 **LIVE DEMO: https://inspiring-puffpuff-9ac6cd.netlify.app/blog/topic-one/first-post/
 
