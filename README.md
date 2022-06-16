@@ -1,6 +1,6 @@
 # Mike's 2Cents Blog - Built w/ 11ty-Eleventy
 
-Multipage personal blog, built using Js's 11ty framework!
+Multipage personal blog, built using Js's 11ty framework and Nunjucks!
 
 (*this is an on-going project, soon to be turned into a full stack blog website)
 
